@@ -1,5 +1,7 @@
 # Revisão Sistemática — Bactérias com Potencial Antifúngico
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15899985.svg)](https://doi.org/10.5281/zenodo.15899985)
+
 Este repositório contém os dados curados e os scripts utilizados na análise de uma revisão sistemática sobre o uso de bactérias com atividade antifúngica em contextos agrícolas e alimentares.
 
 ## 📑 Objetivo
@@ -72,6 +74,13 @@ jupyter notebook scripts/analise_visual_revisao.ipynb
 
 - Código e scripts estão sob a licença [MIT License](LICENSE)
 - Dados científicos curados estão sob [MIT License](LICENSE)
+
+## 📊 Dados
+
+Os dados curados utilizados nesta análise estão disponíveis em formato `.xlsx` neste repositório e também foram arquivados na plataforma Zenodo, com o seguinte DOI:
+
+🔗 [https://doi.org/10.5281/zenodo.15899985](https://doi.org/10.5281/zenodo.15899985)
+
 
 ## 🤝 Contribuição
 
